@@ -12,8 +12,9 @@ This is a proposal Web API for publishing Web [Activity](http://www.w3.org/TR/20
 
 * As a user, I can configure my user-agent to send my activity to a personal [ActivityPump](http://w3c-social.github.io/activitypump/) Web Service
 * As a website operator, I can write a handler for all activities performed by my end-users interacting with sections of my webpages authored by me, my organization, and vendors that provide code and services that I run on my webpage
-* A user Creates an Open Web Annotation
+* A user Creates an Open Web Annotation using their user-agent, and the web page can react to that.
   - alternative proposal for this use case: [DOMAnnotations](https://docs.google.com/presentation/d/1ZKSZyLbEFqwYaG32cFJwcXQjjiU2ZzQguDmyhKfaTdY/edit#slide=id.g99ebca8a5_1_46) (though dom-activity is a generalization)
+* As a user, I can configure my user-agent to send all Create Annotation activities to my personal [Web Annotation Protocol](http://w3c.github.io/web-annotation/protocol/wd/#create-a-new-annotation) Container.
 
 ## Dependencies
 
