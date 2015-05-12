@@ -1,0 +1,24 @@
+{
+  "name": "dom-activity",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "bin": {},
+  "author": "bengoering@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "es6-promise": "^2.1.1"
+  },
+  "devDependencies": {
+    "blue-tape": "^0.1.8",
+    "browserify": "^10.0.0",
+    "http-server": "^0.8.0",
+    "require-dir": "^0.3.0",
+    "uglify-js": "^2.4.20",
+    "zuul": "^2.1.1"
+  }
+}
