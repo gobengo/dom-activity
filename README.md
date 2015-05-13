@@ -95,7 +95,7 @@ This is a proposal Web API for publishing Web [Activity](http://www.w3.org/TR/20
     + e.g. Identities with [Credentials](https://w3c.github.io/webappsec/specs/credentialmanagement/#interfaces-credential-types-credential)
       * e.g. [livefyre-auth](https://github.com/Livefyre/livefyre-auth) credentials
 * What sort of verbs create activity in a document?
-  - TODO with full list of real-world examples, where 'real-world' means [bengo.is](https://bengo.is) is implementing them like now
+  - TODO with full list of real-world examples, where 'real-world' means [gobengo](https://github.com/gobengo) is implementing them like now
   - 'appLoaded'
   - 'appBecomeVisible'
   - 'clicked' subelement resource
